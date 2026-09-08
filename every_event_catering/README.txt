@@ -1,0 +1,1 @@
+Place this folder inside htdocs, then open http://localhost/every_event_catering/index.php in your browser. Internet is needed for Google Fonts and the food images.
